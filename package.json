@@ -1,0 +1,37 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Personal blog for haydensykes.com",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "npm run build && next export"
+  },
+  "keywords": [
+    "hayden",
+    "sykes",
+    "hayden",
+    "sykes",
+    "web",
+    "dev",
+    "web",
+    "dev",
+    "web",
+    "development",
+    "development",
+    "technology",
+    "robotics"
+  ],
+  "author": "Hayden Sykes",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^10.0.6",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "frontmatter-markdown-loader": "^3.6.2"
+  }
+}
